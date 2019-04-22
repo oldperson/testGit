@@ -1,2 +1,3 @@
-﻿### Git test
+### Git test
  ## something new
+## conflic
